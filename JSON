@@ -2,7 +2,7 @@
   "name": "나만의 앱만들기",
   "short_name": "Who-are-you",
   "description": "apple is apple and pinapple but apple is Banana lol,
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
